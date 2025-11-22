@@ -1,0 +1,4 @@
+Сводная таблица оценок по годам и месяцам. ТОП пользователей канала.
+Выполнено в гугл-таблицах, так как Excel очень медленно загружает.
+
+https://docs.google.com/spreadsheets/d/15adJDeDGW9dftVLD73i3AQTpfdkhcguN_3Wadn46rhU/edit?gid=1547601252#gid=1547601252
